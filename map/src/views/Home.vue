@@ -3,10 +3,10 @@
     <Head></Head>
     <div class="home_box">
       <div class="home_container">
-        <div class="title">Select event:</div>
+        <div class="title">赛事列表:</div>
         <div class="content">
           <div class="select_year">
-            <div class="select_word">Select year:</div>
+            <div class="select_word">选择年份:</div>
             <div class="year_list">
               <span class="active">2019</span>
             </div>

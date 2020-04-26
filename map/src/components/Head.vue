@@ -1,7 +1,7 @@
 <template>
   <div class="head">
     <div class="logo">
-      <img src="../assets/images/logo.png" />
+      <img src="../assets/images/newlogo.png" />
       <p>野外训练管理与考评系统</p>
       <!-- <p>Orienteering system</p> -->
     </div>
@@ -146,11 +146,12 @@ export default {
   .logo {
     display: flex;
     color: #053270;
+    align-items: center;
     & > * {
       display: block;
     }
     img {
-      width: 130px;
+      width: 255px;
       object-fit: contain;
     }
     p {
